@@ -4,8 +4,6 @@ Multi-channel 2D CNN for multivariate sensor sequence classification.
 
 ## Author
 Saksham Goyal  
-Electrical Engineering  
-IIT Kharagpur
 
 ## Project Overview
 This project classifies Leviathan behavioral threat states using multivariate temporal sensor data.
